@@ -1,2 +1,2 @@
-eslo sor.
-masodik sor
+masodik sor.
+harmadik sor.
