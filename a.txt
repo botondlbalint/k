@@ -1,5 +1,6 @@
+elso sor megint a remote-on
 masodik sor.
 harmadik sor.
 negyedik sor.
-ot lokalis sor
-hat lokalis sor
+otodik sor
+hatodik sor
