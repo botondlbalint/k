@@ -1,2 +1,3 @@
 masodik sor.
 harmadik sor.
+negzdik sor.
