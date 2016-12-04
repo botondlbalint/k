@@ -1,3 +1,5 @@
 masodik sor.
 harmadik sor.
 negyedik sor.
+ot lokalis sor
+hat lokalis sor
