@@ -1,3 +1,6 @@
+elso sor megint a remote-on
 masodik sor.
 harmadik sor.
 negyedik sor.
+otodik sor / remote
+hatodik sor / remote
